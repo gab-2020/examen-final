@@ -1,0 +1,68 @@
+body{
+
+    background-color: #091528;
+    
+    
+
+}
+
+
+
+header{
+
+    display: flex;    
+    font-family: Cloud;
+    font-weight: bold;
+    font-size:20px;
+    color: #A9B1F9;
+    text-transform:capitalize;
+    margin:5vh;   
+}
+
+
+ h3{    
+    
+    font-family: Cloud;
+    font-weight: bold;
+    font-size:25px;
+    color: #A9B1F9;  
+    text-transform:capitalize;
+    margin:5vh;
+    
+}
+
+h4 {  
+
+    font-family: Cloud;
+    font-weight:light;
+    font-size:15px;
+    color: #A9B1F9;  
+    text-transform:capitalize;
+    margin:5vh;    
+    
+    }
+
+
+footer, h2 {
+    
+    display:flex; 
+    font-family: Cloud;
+    font-weight: bold;    
+    color: #A9B1F9;    
+    
+}
+
+#relojEsp{
+
+    background-color:transparent;
+    padding: 0.5rem;
+    font-family: Cloud;
+    font-weight: bold;
+    color: #A9B1F9;   
+    display:inline-block;
+
+}
+
+
+  
+
